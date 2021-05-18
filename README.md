@@ -1,6 +1,6 @@
 ## Causal and Synthesizer Multihead-Attention
 
-We have implemented different variants of MultiheadAttention mechanism as well. 
+We have implemented different variants of MultiheadAttention mechanisms. 
 - CausalSelfAttention
 - SynthesizerSelfAttention
 
